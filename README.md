@@ -7,7 +7,7 @@
 ## 📊 Overall Progress
 
 ```
-LangChain Models   ████████████████████░░░░░  ~75% Complete
+LangChain Models   █████████████████████████  ~100% Complete
 Prompts            ░░░░░░░░░░░░░░░░░░░░░░░░░   Not Started
 Chains             ░░░░░░░░░░░░░░░░░░░░░░░░░   Not Started
 Memory             ░░░░░░░░░░░░░░░░░░░░░░░░░   Not Started
